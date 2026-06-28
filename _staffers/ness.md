@@ -3,10 +3,10 @@ name: Eric Ness
 role: TA
 pronouns: He/Him
 email: eness@ucsd.edu
-photo: assets/staff-images/saha-harshi.jpg
-description: 1st Year Masters, Data Science, HDSI
+photo:  
+oh: Community OH -- 2:00-2:30pm Mondays after lecture; Individual/Group/Discussion OH (by appointment) -- 1:00-3:00 Tuesdays, 2:00-3:00 Wednesdays after lecture
+description: MS, Data Science, University of California San Diego; BS, Mathematics, Music, Stony Brook University
 hometown: East Williston, NY
-askabout: My bioinformatics research, indoor plants, and city pop
-foodemoji: 🍛
-food: Chon Ju Jip, Star Anise Thai Cuisine, Yokohama Yakitori Koubou
+askabout: Goofy unrealistic math proofs, a comprehensive history of classical cello and chamber music repertoire from 1700-present, strong opinions on seafood preparation
+foodemoji: 🦐
 ---
