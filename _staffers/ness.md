@@ -1,11 +1,11 @@
 ---
-name: Harshi Saha
-role: Tutor
-pronouns: any pronouns
-email: hsaha@ucsd.edu
+name: Eric Ness
+role: TA
+pronouns: He/Him
+email: eness@ucsd.edu
 photo: assets/staff-images/saha-harshi.jpg
-description: 4th year, Bioinformatics, Muir
-hometown: Cupertino, CA
+description: 1st Year Masters, Data Science, HDSI
+hometown: East Williston, NY
 askabout: My bioinformatics research, indoor plants, and city pop
 foodemoji: 🍛
 food: Chon Ju Jip, Star Anise Thai Cuisine, Yokohama Yakitori Koubou
