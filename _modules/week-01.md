@@ -14,7 +14,7 @@ days:
       - name: SUR
         type: survey
         title: <b>Welcome Survey</b>
-        url: 
+        url: https://docs.google.com/forms/d/e/1FAIpQLSdCTOsgGXWOSgxtlK6uGKSBru03xtqYqj2MZuloLGyyI-FROg/viewform?usp=dialog
   - date: "2026-06-30"
     events:
       - name: EX HW
