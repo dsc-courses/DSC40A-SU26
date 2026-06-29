@@ -15,7 +15,7 @@ nav_order: 1
 
 {: .green }
 > Here's what you need to know:
-> - Lecture starts on Monday, July 29th on Zoom. If you are enrolled, you should haved recieved a zoom link via email or can find one at XXXX.
+> - Lecture starts on Monday, July 29th on Zoom. If you are enrolled, you should haved recieved a zoom link via email or can find one at TBD.
 > - Read the syllabus.
 
 <!-- [Jump to the current week](#week-5){: .btn } [Assignment Solutions](){: .btn .btn-purple } -->

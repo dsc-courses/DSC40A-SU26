@@ -27,13 +27,13 @@ But how do we learn from data? This is the central question of DSC 40A. We will 
 
 ## Communication 💬
 
-This quarter, we’ll be using XXXX as our course message board. You should be added to XXXX automatically; if not, join using this link. Please join right away as we’ll be making all course announcements through XXXX.
+This quarter, we’ll be using TBD as our course message board. You should be added to TBD automatically; if not, join using this link. Please join right away as we’ll be making all course announcements through TBD.
 
-If you have a question about anything to do with the course — if you’re stuck on a problem, didn’t understand something from lecture, want clarification on course logistics, or just have a general question about data science — you can make a post on XXXX. We only ask that if your question includes some or all of an answer (even if you’re not sure it’s right), please make your post private so that others cannot see it. You can also post anonymously if you would prefer.
+If you have a question about anything to do with the course — if you’re stuck on a problem, didn’t understand something from lecture, want clarification on course logistics, or just have a general question about data science — you can make a post on TBD. We only ask that if your question includes some or all of an answer (even if you’re not sure it’s right), please make your post private so that others cannot see it. You can also post anonymously if you would prefer.
 
-Course staff will regularly check XXXX and try to answer any questions that you have. You’re also encouraged to answer questions asked by other students. Explaining something is a great way to solidify your understanding of it! This quarter we will be awarding 2% of your overall grade to your contributions on XXXX. You must contribute twice, each worth 1%. These may be public or private posts, answering questions, etc.
+Course staff will regularly check TBD and try to answer any questions that you have. You’re also encouraged to answer questions asked by other students. Explaining something is a great way to solidify your understanding of it! This quarter we will be awarding 2% of your overall grade to your contributions on TBD. You must contribute twice, each worth 1%. These may be public or private posts, answering questions, etc.
 
-Please don’t email staff members (and don’t message them on social media), just make a private or public XXXX post instead!
+Please don’t email staff members (and don’t message them on social media), just make a private or public TBD post instead!
 
 
 ---
@@ -43,7 +43,7 @@ Please don’t email staff members (and don’t message them on social media), j
 We will be using several websites this quarter. Here's what they're all used for:
 
 - [Course Website](): Where all content will be posted.
-- [XXXX](): Discussion forum for announcements and communication.
+- [TBD](): Discussion forum for announcements and communication.
 - [Gradescope](https://www.gradescope.com): Platform for submitting assignments and viewing grades. You should be automatically added to Gradescope within 24 hours of enrolling.
 - [Datahub](https://datahub.ucsd.edu): UCSD's data science and machine learning platform, for coding in Jupyter notebooks.
 
@@ -57,15 +57,15 @@ This course will include fully remote lectures, groupwork, and twice weekly home
 
 ### Lecture
 
-Lecture will take place Monday and Wednesday on Zoom (link is available on XXXX) from 11:00am-1:50pm PT. Lecture is meant to introduce you to the main concepts of the course. Attendance is highly encouraged and positively correlated with success in the course, though it will not be required. Attending lecture gives you the opportunity to ask questions, answer ungraded concept-check polls, and participate in discussion.
+Lecture will take place Monday and Wednesday on Zoom (link is available on TBD) from 11:00am-1:50pm PT. Lecture is meant to introduce you to the main concepts of the course. Attendance is highly encouraged and positively correlated with success in the course, though it will not be required. Attending lecture gives you the opportunity to ask questions, answer ungraded concept-check polls, and participate in discussion.
 
 See the homepage of this website and the Resources tab for access to helpful resources that will help solidify your understanding of concepts covered in lecture. These include videos, slides, readings, and sometimes code. These will be your primary resources in this class, as there is no formal textbook.
 
 Edit as of 6/27/2026: We plan to record lectures, but how, when, and where they will be posted is still TBD.
 
-### XXXX
+### TBD
 
-This quarter, a portion of your grade will come from your contribution to the course in the form of posting on XXXX. 2% of your overall grade will come from your contributions to XXXX. **You must make two separate contributions on XXXX** in order to receive full credit, each will be equally weighted at 1%. These may be private posts, public posts, responses or answers to other student's posts, etc.
+This quarter, a portion of your grade will come from your contribution to the course in the form of posting on TBD. 2% of your overall grade will come from your contributions to TBD. **You must make two separate contributions on TBD** in order to receive full credit, each will be equally weighted at 1%. These may be private posts, public posts, responses or answers to other student's posts, etc.
 
 ### Discussion
 
@@ -79,9 +79,9 @@ You get credit for the groupwork portion of your grade through check-offs.
 
 #### How to get checked off for groupwork
 
-In order to help guide you, get you set up, and to meet people, there will be one big synchronous discussion section on Wednesday, July 1st. This discussion section meeting **will be mandatory to earn credit for that week's groupwork assignment.** The zoom link will be posted on XXXX. This section will look like the TA guiding through content, group work in breakout rooms, and walking through solutions. The TA will award credit by visiting all breakout rooms and checking students off for good-faith effort at the end of the meeting. 
+In order to help guide you, get you set up, and to meet people, there will be one big synchronous discussion section on Wednesday, July 1st. This discussion section meeting **will be mandatory to earn credit for that week's groupwork assignment.** The zoom link will be posted on TBD. This section will look like the TA guiding through content, group work in breakout rooms, and walking through solutions. The TA will award credit by visiting all breakout rooms and checking students off for good-faith effort at the end of the meeting. 
 
-For groupworks 2-4 there will be no synchronous discussion section. Instead each group is required to sign up for a 5 minute check off meeting sometime on Wednesday or Thursday that week with the TA. The link to do so can be found here and on XXXX. You must sign up at least YYYY hours in advance of the meeting. There will be no makeup meetings outside of the time allotted by the TA. There will be more appointment slots than groups, so every group should be able to sign up for a time that works for them if they sign up early enough. 
+For groupworks 2-4 there will be no synchronous discussion section. Instead each group is required to sign up for a 5 minute check off meeting sometime on Wednesday or Thursday that week with the TA. The link to do so can be found here and on TBD. You must sign up at least YYYY hours in advance of the meeting. There will be no makeup meetings outside of the time allotted by the TA. There will be more appointment slots than groups, so every group should be able to sign up for a time that works for them if they sign up early enough. 
 
 ### Homeworks
 
@@ -102,13 +102,13 @@ For each problem you submit, you should cite your sources by including a list of
 
 We also encourage you to come to instructor and staff office hours for help on homework questions. The homework assignments for this class are quite challenging and most students are not able to successfully complete the homework from attending lecture alone. Make sure to use the resources provided on the [Resources](../resources) tab of the course website, actively participate in groupwork sessions, and plan to attend office hours at least once a week. Even if you don’t have specific questions, you will likely get a lot out of conversing about the material. See the [Calendar](../calendar) tab of the course website for the most up-to-date schedule of office hours, and directions for how to find us!
 
-You may post homework-related questions on XXXX, though your questions (and answers) should be about approaches, not answers. If your question includes some or all of an answer (even if you're not sure it's right), you must make your post private so that others cannot see it. We are not able to tell you whether your answer is correct. 
+You may post homework-related questions on TBD, though your questions (and answers) should be about approaches, not answers. If your question includes some or all of an answer (even if you're not sure it's right), you must make your post private so that others cannot see it. We are not able to tell you whether your answer is correct. 
 
 ### Office Hours
 
 To get help on assignments and concepts, course staff will be hosting several office hours per week. There will be two types of office hours offered this summer:
 1. Community office hours: Once a week, there will be a 30 minute open zoom session for anyone to join! This is a great way to meet new students in the course, collaborate, and get to know staff members in a casual setting. This is the equivalent of Jordan sitting in her office with the door open. If this timing doesn’t work for you, feel free to sign up for a meeting using option #2. 
-2. Individual or group office hours: These will take place in the form of google calendar appointments. You may schedule as many of these as you feel necessary, up to X, throughout the week with either member of staff. These will be 20 minute appointments that you and whoever else you’d like may show up to. The goal with holding office hours this way is so that staff doesn’t waste precious work time waiting in an empty zoom room :(( and so students can have individual staff time. These are the office hours you should use if you have a personal or logistical question that can’t be answered over XXXX or email. 
+2. Individual or group office hours: These will take place in the form of google calendar appointments. You may schedule as many of these as you feel necessary, up to X, throughout the week with either member of staff. These will be 20 minute appointments that you and whoever else you’d like may show up to. The goal with holding office hours this way is so that staff doesn’t waste precious work time waiting in an empty zoom room :(( and so students can have individual staff time. These are the office hours you should use if you have a personal or logistical question that can’t be answered over TBD or email. 
     * Jordan’s [appointment schedule link]()
     * Eric’s [appointment schedule link]()
 
@@ -153,7 +153,7 @@ Here's how we will compute your grade.
 
 | Component | Weight | Notes |
 | --- | --- | --- |
-| XXXX | 2% | |
+| TBD | 2% | |
 | Groupwork | 8% | |
 | Homework | 40% | drop lowest |
 | Midterm Exam | 20% | |
