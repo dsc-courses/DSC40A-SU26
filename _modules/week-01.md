@@ -7,7 +7,7 @@ days:
       - name: LEC 1
         type: lecture
         title: Introduction to Modeling and Empirical Risk Minimization
-        # blank: resources/lectures/lec01/lec01-blank.pdf
+        blank: resources/lectures/lec01/lec01-blank.pdf
         # filled: resources/lectures/lec01/lec01-filled.pdf
         podcast: 
         reading:
