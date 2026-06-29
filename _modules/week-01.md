@@ -8,7 +8,7 @@ days:
         type: lecture
         title: Introduction to Modeling and Empirical Risk Minimization
         blank: resources/lectures/lec01/lec01-blank.pdf
-        # filled: resources/lectures/lec01/lec01-filled.pdf
+        filled: resources/lectures/lec01/lec01-filled.pdf
         podcast: 
         reading:
       - name: SUR

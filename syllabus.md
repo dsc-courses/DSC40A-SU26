@@ -128,7 +128,7 @@ To summarize, here's what a typical week will look like in the course (there may
 
 ## Exams 🧪
 
-There will be one Midterm Exam and one Final Exam, both held in person.
+There will be one Midterm Exam and one Final Exam, both held remotely.
 
 - **Midterm Exam**: Wednesday, July 15th, remote, during the lecture slot starting at 11:00 and running for ZZ amount of time.
 - **Final Exam**: Friday, July 31st, 11:30AM-2:30PM, remote.
