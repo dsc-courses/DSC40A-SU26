@@ -43,8 +43,5 @@ days:
       - name: HOLIDAY
         type: holiday
         title: Fourth of July - no class
-      - name: HW 1
-        type: hw
-        title: Homework 1 Due
-        # problems: resources/homeworks/hw01.pdf
+  
 ---

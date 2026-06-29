@@ -11,6 +11,10 @@ days:
         # filled: resources/lectures/lec01/lec01-filled.pdf
         podcast: 
         reading: 
+      - name: HW 1
+        type: hw
+        title: Homework 1 Due
+        # problems: resources/homeworks/hw01.pdf
   - date: "2026-07-07"
     events:
       - name: HW 2

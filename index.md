@@ -13,6 +13,9 @@ nav_order: 1
 
 {{ site.staffersnobio }}
 
+{: .red }
+> This website is still under construction and subject to change. Please keep an eye out for communication from staff.
+
 {: .green }
 > Here's what you need to know:
 > - Lecture starts on Monday, July 29th on Zoom. If you are enrolled, you should haved recieved a zoom link via email or can find one at TBD.
