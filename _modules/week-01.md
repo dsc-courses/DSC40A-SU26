@@ -27,7 +27,7 @@ days:
       - name: LEC 2
         type: lecture
         title: Comparing Loss Functions and Simple Linear Regression
-        # blank: resources/lectures/lec02/lec02-blank.pdf
+        blank: resources/lectures/lec02/lec02-blank.pdf
         # filled: resources/lectures/lec02/lec02-filled.pdf
         # podcast: 
   - date: "2026-07-02"
@@ -35,7 +35,7 @@ days:
       - name: DISC 1
         type: disc
         title: Groupwork 1 Due
-        # problems: resources/groupworks/gw01.pdf
+        # problems: resources/groupworks/groupwork1.pdf
         template: 
         # walkthrough: 
   - date: "2026-07-03"
