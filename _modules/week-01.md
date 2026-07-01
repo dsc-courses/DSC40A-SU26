@@ -35,7 +35,7 @@ days:
       - name: DISC 1
         type: disc
         title: Groupwork 1 Due
-        # problems: resources/groupworks/groupwork1.pdf
+        problems: resources/groupworks/groupwork1.pdf
         template: 
         # walkthrough: 
   - date: "2026-07-03"

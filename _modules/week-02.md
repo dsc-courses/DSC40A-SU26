@@ -14,7 +14,7 @@ days:
       - name: HW 1
         type: hw
         title: Homework 1 Due
-        # problems: resources/homeworks/homework1.pdf
+        problems: resources/homeworks/homework1.pdf
   - date: "2026-07-07"
     events:
       - name: HW 2
