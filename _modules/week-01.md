@@ -28,7 +28,7 @@ days:
         type: lecture
         title: Comparing Loss Functions and Simple Linear Regression
         blank: resources/lectures/lec02/lec02-blank.pdf
-        # filled: resources/lectures/lec02/lec02-filled.pdf
+        filled: resources/lectures/lec02/lec02-filled.pdf
         # podcast: 
   - date: "2026-07-02"
     events:
