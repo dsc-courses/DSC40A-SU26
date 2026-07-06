@@ -7,8 +7,10 @@ days:
       - name: LEC 3
         type: lecture
         title: Simple Linear Regression, Continued; Dot Products and Projections
-        # blank: resources/lectures/lec01/lec01-blank.pdf
+        blank: resources/lectures/lec01/lec01-blank.pdf
         # filled: resources/lectures/lec01/lec01-filled.pdf
+        code: https://drive.google.com/file/d/1m1qsNYdDofKlPqH7MiagIQDRCLpDl-6f/view?usp=sharing
+        codingfiles: resources/lectures/lec03/livecoding/lec03codingfiles.zip
         podcast: 
         reading: 
       - name: HW 1
@@ -21,7 +23,6 @@ days:
         type: hw
         title: Homework 2 Due
         # problems: resources/homeworks/hw-example.pdf
-        # walkthrough: https://www.youtube.com/playlist?list=PLDNbnocpJUhYtg3s2__3pbh1kNKYxXaFM
   - date: "2026-07-08"
     events:
       - name: LEC 4

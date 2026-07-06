@@ -32,6 +32,9 @@
                 {%- if event.code -%}
                 <small>&nbsp;&nbsp;<a href="{{ event.code }}"><button type="button" class="btn btn-info">💻 code</button></a></small>
                 {%- endif -%}
+                {%- if event.codingfiles -%}
+                <small>&nbsp;&nbsp;<a href="{{ event.codingfiles }}"><button type="button" class="btn btn-info">📂 coding files</button></a></small>
+                {%- endif -%}
                 {%- if event.animations -%}
                 <small>&nbsp;&nbsp;<a href="{{ event.animations }}"><button type="button" class="btn btn-info">🧮 animations</button></a></small>
                 {%- endif -%}

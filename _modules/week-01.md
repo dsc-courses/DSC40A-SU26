@@ -21,7 +21,7 @@ days:
         type: hw
         title: Example Homework (not due!)
         problems: resources/homeworks/exhomework.pdf
-        # walkthrough: https://www.youtube.com/playlist?list=PLDNbnocpJUhYtg3s2__3pbh1kNKYxXaFM
+        walkthrough: https://www.youtube.com/playlist?list=PLDNbnocpJUhYtg3s2__3pbh1kNKYxXaFM
   - date: "2026-07-01"
     events:
       - name: LEC 2
