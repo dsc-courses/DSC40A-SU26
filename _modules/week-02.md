@@ -22,7 +22,7 @@ days:
       - name: HW 2
         type: hw
         title: Homework 2 Due
-        # problems: resources/homeworks/hw-example.pdf
+        problems: resources/homeworks/homework2.pdf
   - date: "2026-07-08"
     events:
       - name: LEC 4

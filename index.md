@@ -13,8 +13,8 @@ nav_order: 1
 
 {{ site.staffersnobio }}
 
-{: .red }
-> This website is still under construction and subject to change. Please keep an eye out for communication from staff.
+<!-- {: .red }
+> This website is still under construction and subject to change. Please keep an eye out for communication from staff. -->
 
 {: .green }
 > Here's what you need to know:
