@@ -5,7 +5,7 @@ pronouns: she/they
 email: j6schwartz@ucsd.edu
 # website: https://rampure.org/
 photo: assets/staff-images/jordan.JPG
-lecture: MW 11:00-1:50PM, zoom link on __
+lecture: MW 11:00-1:50PM, Zoom link on Piazza
 oh: Community OH -- 2:00-2:30pm Mondays after lecture; Appointments here
 description: MS, Computer and Information Sciences, University of Pennsylvania; BA, Cognitive Science, Computer Science, UC Berkeley
 hometown: Redwood City, California (SF Bay Area)
