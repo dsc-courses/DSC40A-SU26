@@ -29,6 +29,7 @@ days:
         title: Comparing Loss Functions and Simple Linear Regression
         blank: resources/lectures/lec02/lec02-blank.pdf
         filled: resources/lectures/lec02/lec02-filled.pdf
+        code: https://colab.research.google.com/drive/12tUzghmCllYEc2KhEmFzmc_7Dl_fHsQ2?usp=sharing
         # podcast: 
   - date: "2026-07-02"
     events:
@@ -36,6 +37,7 @@ days:
         type: disc
         title: Groupwork 1 Due
         problems: resources/groupworks/groupwork1.pdf
+        solutions: https://piazza.com/class/mqzuizbulee109/post/29
         template: 
         # walkthrough: 
   - date: "2026-07-03"
