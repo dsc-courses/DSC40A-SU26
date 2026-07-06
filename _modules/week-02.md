@@ -7,7 +7,7 @@ days:
       - name: LEC 3
         type: lecture
         title: Simple Linear Regression, Continued; Dot Products and Projections
-        blank: resources/lectures/lec01/lec01-blank.pdf
+        blank: resources/lectures/lec03/lec03-blank.pdf
         # filled: resources/lectures/lec01/lec01-filled.pdf
         code: https://drive.google.com/file/d/1m1qsNYdDofKlPqH7MiagIQDRCLpDl-6f/view?usp=sharing
         codingfiles: resources/lectures/lec03/livecoding/lec03codingfiles.zip
