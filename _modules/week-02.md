@@ -28,9 +28,10 @@ days:
       - name: LEC 4
         type: lecture
         title: Orthogonal Projections; Regression and Linear Algebra
-        # blank: resources/lectures/lec02/lec02-blank.pdf
-        # filled: resources/lectures/lec02/lec02-filled.pdf
-        # podcast: 
+        blank: resources/lectures/lec04/lec04-blank.pdf
+        # filled: resources/lectures/lec04/lec04-filled.pdf
+        code: https://drive.google.com/file/d/1li6xsRw8Ilc-vTcwY1eDHnOmmPnPGq--/view?usp=sharing
+        codingfiles: resources/lectures/lec03/livecoding/lec03codingfiles.zip
   - date: "2026-07-09"
     events:
       - name: DISC 2
