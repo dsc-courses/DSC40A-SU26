@@ -45,5 +45,5 @@ days:
       - name: HW 3
         type: hw
         title: Homework 3 Due
-        # problems: resources/homeworks/hw01.pdf
+        problems: resources/homeworks/homework3.pdf
 ---
