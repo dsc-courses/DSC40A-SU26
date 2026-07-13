@@ -8,7 +8,7 @@ days:
         type: lecture
         title: Multiple Linear Regression and Feature Engineering; Gradient Descent
         blank: resources/lectures/lec05/lec05-blank.pdf
-        # filled: resources/lectures/lec01/lec01-filled.pdf
+        filled: resources/lectures/lec05/lec05-filled.pdf
         animations: resources/lectures/lec10
         code: https://drive.google.com/file/d/1rvnd8UE_-7cwLqXT2OoFZT9U04SAqY7w/view?usp=sharing
         codingfiles: resources/lectures/lec05/sales.csv
