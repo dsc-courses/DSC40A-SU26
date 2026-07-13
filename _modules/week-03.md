@@ -7,10 +7,11 @@ days:
       - name: LEC 5
         type: lecture
         title: Multiple Linear Regression and Feature Engineering; Gradient Descent
-        # blank: resources/lectures/lec01/lec01-blank.pdf
+        blank: resources/lectures/lec05/lec05-blank.pdf
         # filled: resources/lectures/lec01/lec01-filled.pdf
-        podcast: 
-        reading:
+        animations: resources/lectures/lec10
+        code: https://drive.google.com/file/d/1rvnd8UE_-7cwLqXT2OoFZT9U04SAqY7w/view?usp=sharing
+        codingfiles: resources/lectures/lec05/sales.csv
   - date: "2026-07-14"
     events:
       - name: HW 4
