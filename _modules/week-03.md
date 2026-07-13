@@ -17,7 +17,7 @@ days:
       - name: HW 4
         type: hw
         title: Homework 4 Due
-        # problems: resources/homeworks/hw-example.pdf
+        problems: resources/homeworks/homework4.pdf
         # walkthrough: https://www.youtube.com/playlist?list=PLDNbnocpJUhYtg3s2__3pbh1kNKYxXaFM
   - date: "2026-07-15"
     events:
