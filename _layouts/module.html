@@ -20,7 +20,7 @@
               {% else %}
                 {{ event.title }}
               {% endif %}
-              {%- if event.type == "lecture" or event.type == "review" -%}
+              {%- if event.type == "lecture" or event.type == "review" or event.type == "exam" -%}
                 {%- if event.blank -%}
                 <br>
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -46,6 +46,13 @@
                 {%- endif -%}
                 {%- if event.faqs -%}
                 <small>&nbsp;&nbsp;<a href="{{ event.faqs }}"><button type="button" class="btn btn-info">🙋 FAQs</button></a></small>
+                {%- endif -%}
+                {%- if event.formatting -%}
+                <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <small>&nbsp;&nbsp;<a href="{{ event.formatting }}"><button type="button" class="btn btn-info">✍️ formatting guide</button></a></small>
+                {%- endif -%}
+                {%- if event.proctoring -%}
+                <small>&nbsp;&nbsp;<a href="{{ event.proctoring }}"><button type="button" class="btn btn-info">ℹ️ proctoring info</button></a></small>
                 {%- endif -%}
               {%- endif -%}
               {%- if event.type == "hw" or event.type == "disc" -%}

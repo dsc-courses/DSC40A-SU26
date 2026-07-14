@@ -24,6 +24,8 @@ days:
       - name: EXAM
         type: exam
         title: Midterm Exam (during class time)
+        formatting: https://piazza.com/class/mqzuizbulee109/post/94
+        proctoring: https://piazza.com/class/mqzuizbulee109/post/47
         # blank: resources/lectures/lec02/lec02-blank.pdf
         # filled: resources/lectures/lec02/lec02-filled.pdf
         # podcast: 
