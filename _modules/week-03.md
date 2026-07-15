@@ -19,6 +19,11 @@ days:
         title: Homework 4 Due
         problems: resources/homeworks/homework4.pdf
         # walkthrough: https://www.youtube.com/playlist?list=PLDNbnocpJUhYtg3s2__3pbh1kNKYxXaFM
+      - name: MT
+        type: review
+        title: Midterm Review Session
+        blank: resources/review/mt-review-blank.pdf
+        filled: resources/review/mt-review-filled.pdf
   - date: "2026-07-15"
     events:
       - name: EXAM
