@@ -16,7 +16,7 @@ days:
       - name: HW 5
         type: hw
         title: Homework 5 Due
-        # problems: resources/homeworks/homework5.pdf
+        problems: resources/homeworks/homework5.pdf
   - date: "2026-07-22"
     events:
       - name: LEC 7
