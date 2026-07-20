@@ -6,8 +6,8 @@ days:
     events:
       - name: LEC 6
         type: lecture
-        title: Foundations of Probability; Combinatorics
-        # blank: resources/lectures/lec01/lec01-blank.pdf
+        title: Gradient Descent; Foundations of Probability; Combinatorics
+        blank: resources/lectures/lec06/lec06-blank.pdf
         # filled: resources/lectures/lec01/lec01-filled.pdf
         podcast: 
         reading: 
@@ -16,8 +16,7 @@ days:
       - name: HW 5
         type: hw
         title: Homework 5 Due
-        # problems: resources/homeworks/hw-example.pdf
-        # walkthrough: https://www.youtube.com/playlist?list=PLDNbnocpJUhYtg3s2__3pbh1kNKYxXaFM
+        # problems: resources/homeworks/homework5.pdf
   - date: "2026-07-22"
     events:
       - name: LEC 7
