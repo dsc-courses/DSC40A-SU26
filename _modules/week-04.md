@@ -8,7 +8,7 @@ days:
         type: lecture
         title: Gradient Descent; Foundations of Probability; Combinatorics
         blank: resources/lectures/lec06/lec06-blank.pdf
-        # filled: resources/lectures/lec01/lec01-filled.pdf
+        filled: resources/lectures/lec06/lec06-filled.pdf
         podcast: 
         reading: 
   - date: "2026-07-21"
