@@ -22,8 +22,8 @@ days:
       - name: LEC 7
         type: lecture
         title: More Combinatorics Examples; Bayes' Theorem and Independence
-        # blank: resources/lectures/lec02/lec02-blank.pdf
-        # filled: resources/lectures/lec02/lec02-filled.pdf
+        blank: resources/lectures/lec07/lec07-blank.pdf
+        filled: resources/lectures/lec07/lec07-filled.pdf
         # podcast: 
   - date: "2026-07-23"
     events:
