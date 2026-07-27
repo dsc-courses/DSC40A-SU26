@@ -7,7 +7,7 @@ days:
       - name: LEC 8
         type: lecture
         title: Independence and Conditional Independence; Naïve Bayes
-        # blank: resources/lectures/lec01/lec01-blank.pdf
+        blank: resources/lectures/lec08/lec08-blank.pdf
         # filled: resources/lectures/lec01/lec01-filled.pdf
         podcast: 
         reading:
