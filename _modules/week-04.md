@@ -38,5 +38,5 @@ days:
       - name: HW 6
         type: hw
         title: Homework 6 Due
-        # problems: resources/homeworks/hw01.pdf
+        problems: resources/homeworks/homework6.pdf
 ---

@@ -16,7 +16,7 @@ days:
       - name: HW 7
         type: hw
         title: Homework 7 Due
-        # problems: resources/homeworks/hw-example.pdf
+        problems: resources/homeworks/homework7.pdf
         # walkthrough: https://www.youtube.com/playlist?list=PLDNbnocpJUhYtg3s2__3pbh1kNKYxXaFM
   - date: "2026-07-29" 
     events:
@@ -29,6 +29,9 @@ days:
         reading:
   - date: "2026-07-30"
     events:
+      - name: FINAL
+        type: review
+        title: Final Review Session
       - name: DISC 4
         type: disc
         title: Groupwork 4 Due
