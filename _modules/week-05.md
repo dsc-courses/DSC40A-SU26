@@ -8,7 +8,7 @@ days:
         type: lecture
         title: Independence and Conditional Independence; Naïve Bayes
         blank: resources/lectures/lec08/lec08-blank.pdf
-        # filled: resources/lectures/lec01/lec01-filled.pdf
+        filled: resources/lectures/lec08/lec08-filled.pdf
         podcast: 
         reading:
   - date: "2026-07-28"
