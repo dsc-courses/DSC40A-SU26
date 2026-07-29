@@ -41,7 +41,9 @@ days:
       - name: HW 8
         type: hw
         title: Homework 8 Due
-        # problems: resources/homeworks/hw-example.pdf
+        problems: resources/homeworks/homework8.pdf
+        code: https://drive.google.com/file/d/1Bf0jYts5jyIaeiCfSQcDBbYS_7Xd4LOT/view?usp=sharing
+        codingfiles: resources/homeworks/small_tips.csv
         # walkthrough:
   - date: "2026-07-31"
     events:

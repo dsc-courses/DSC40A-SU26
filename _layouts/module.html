@@ -70,6 +70,12 @@
                 {%- if event.solutions -%}
                 <small>&nbsp;&nbsp;<a href="{{ event.solutions }}"><button type="button" class="btn btn-info">📝 solutions</button></a></small>
                 {%- endif -%}
+                {%- if event.code -%}
+                <small>&nbsp;&nbsp;<a href="{{ event.code }}"><button type="button" class="btn btn-info">💻 code</button></a></small>
+                {%- endif -%}
+                {%- if event.codingfiles -%}
+                <small>&nbsp;&nbsp;<a href="{{ event.codingfiles }}"><button type="button" class="btn btn-info">📂 coding files</button></a></small>
+                {%- endif -%}
               {%- endif -%}
             </p>
             <p>
