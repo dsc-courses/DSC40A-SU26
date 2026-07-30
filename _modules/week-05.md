@@ -24,7 +24,7 @@ days:
         type: lecture
         title: Review and Final Thoughts
         blank: resources/lectures/lec09/lec09-blank.pdf
-        # filled: resources/lectures/lec01/lec01-filled.pdf
+        filled: resources/lectures/lec09/lec09-filled.pdf
         podcast: 
         reading:
   - date: "2026-07-30"
