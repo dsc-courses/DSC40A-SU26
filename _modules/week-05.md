@@ -32,6 +32,8 @@ days:
       - name: FINAL
         type: review
         title: Final Review Session
+        blank: resources/review/FinalReview-blank.pdf
+        filled: resources/review/FinalReview-filled.pdf
       - name: DISC 4
         type: disc
         title: Groupwork 4 Due
